@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **legendile7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EXKn8WfJIb6p-Fi9ekXAiV_sNRq1p-Mt/view?usp=sharing](https://drive.google.com/file/d/1EXKn8WfJIb6p-Fi9ekXAiV_sNRq1p-Mt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://legendile7.github.io/Divesh%20Gupta%20Resume.pdf)
 
 - ⚡ Fun fact **I do magic tricks**
 
