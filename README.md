@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divesh Gupta</h1>
-<h3 align="center">A passionate CS and Cybersecurity Student at the University of Goergia</h3>
+<h3 align="center">A Cybersecurity Student at the University of Goergia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legendile7&label=Profile%20views&color=0e75b6&style=flat" alt="legendile7" /> </p>
 
