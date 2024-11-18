@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legendile7" alt="legendile7" /></a> </p>
 
-- 🔭 I’m currently working on [Novark](https://novark.overshock.games/)
+- 🔭 I’m currently working on: [Novark](https://novark.overshock.games/)
 
-- 💬 Ask me about **cybersecurity, ethical hacking, game development**
+- 💬 Ask me about: **cybersecurity, and game development**
 
-- 📫 How to reach me **legendile7@gmail.com**
+- 📫 How to reach me: **legendile7@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://legendile7.github.io/Divesh%20Gupta%20Resume.pdf)
+- 📄 Know about my experiences: [Resume](https://legendile7.github.io/Divesh%20Gupta%20Resume.pdf)
 
-- ⚡ Fun fact **I do magic tricks**
+- ⚡ Fun fact: **I do magic tricks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
