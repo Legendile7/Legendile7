@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: [Resume](https://legendile7.github.io/Divesh%20Gupta%20Resume.pdf)
 
-- ⚡ Fun fact: **I do magic tricks**
+- ⚡ Fun fact: **I am a magician!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
