@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Divesh Gupta</h1>
+<h1 align="center">Hey, I'm Divesh Gupta!</h1>
 <h3 align="center">CS & Cybersecurity Student at the University of Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legendile7&label=Profile%20views&color=0e75b6&style=flat" alt="legendile7" /> </p>
 
-- 🔭 I’m currently working on: [Plunderwake](https://plunderwake.com)
+- Lead Dev & Maintainer of https://thehackpack.org/
 
-- 💬 Ask me about: **cybersecurity and game development**
+- Ask me about: **cybersecurity and game development**
 
-- 📫 How to reach me: **legendile7@gmail.com**
+- How to reach me: **legendile7@gmail.com** or **legendile7** on Discord.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
